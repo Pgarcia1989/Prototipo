@@ -7,4 +7,5 @@ div#section{
 	display: -o-flex;
 	display: flex;
 	background-color: #80E6FF;
+	border: 1px solid orange;
 }
